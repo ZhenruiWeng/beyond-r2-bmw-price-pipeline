@@ -1,9 +1,7 @@
-pandas
 numpy
+pandas
 matplotlib
 seaborn
-scipy
-statsmodels
 scikit-learn
 xgboost
 joblib
